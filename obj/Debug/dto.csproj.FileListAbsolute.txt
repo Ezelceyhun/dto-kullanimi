@@ -1,0 +1,59 @@
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\obj\Debug\dto.csproj.AssemblyReference.cache
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\obj\Debug\json_dosya_okuma_ve_2li_sistemden_10luk_sayıya_cevirme.Form1.resources
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\obj\Debug\json_dosya_okuma_ve_2li_sistemden_10luk_sayıya_cevirme.Properties.Resources.resources
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\obj\Debug\dto.csproj.GenerateResource.cache
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\obj\Debug\dto.csproj.CoreCompileInputs.cache
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\obj\Debug\json dosya okuma ve 2li sistemden 10luk sayıya cevirme.exe
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\obj\Debug\json dosya okuma ve 2li sistemden 10luk sayıya cevirme.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\json dosya okuma ve 2li sistemden 10luk sayıya cevirme.exe.config
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\json dosya okuma ve 2li sistemden 10luk sayıya cevirme.exe
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\json dosya okuma ve 2li sistemden 10luk sayıya cevirme.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Web.Helpers.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Web.Razor.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Web.WebPages.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\WebGrease.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Web.Helpers.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Web.Razor.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Web.WebPages.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\obj\Debug\dto.csproj.Up2Date
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\obj\Debug\json_dosya_okuma_ve_2li_sistemden_10luk_sayıya_cevirme.Form2.resources
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.Web.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Buffers.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Memory.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.DependencyCollector.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.PerfCounterCollector.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.Web.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.Web.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.WindowsServer.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Buffers.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Memory.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ezelc\Desktop\Github Projeleri\dto datagrid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

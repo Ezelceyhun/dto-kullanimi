@@ -1,0 +1,21 @@
+{
+  "returnCode": 0,
+  "type": null,
+  "columnDict": null,
+  "data": [
+    {
+      "id": 1,
+      "webUserID": "admin@letta.com.tr",
+      "name": "admin",
+      "authType": "0",
+      "email": "admin@letta.com.tr",
+      "password": "****",
+      "readOnlyAccess": 2147483647,
+      "readWriteAccess": 2147483647,
+      "isActive": 1
+    }
+  ],
+  "exMessage": null,
+  "guid": null,
+  "code": null
+}
