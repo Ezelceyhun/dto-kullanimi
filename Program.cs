@@ -16,7 +16,7 @@ namespace json_dosya_okuma_ve_2li_sistemden_10luk_sayıya_cevirme
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form2());
+            Application.Run(new Form1());
         }
     }
 }
