@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Windows.Forms;
+using System.Net.Http;
+using Microsoft.Graph;
+using Microsoft.Graph.Models;
 
 namespace json_dosya_okuma_ve_2li_sistemden_10luk_sayıya_cevirme
 {
@@ -26,27 +29,17 @@ namespace json_dosya_okuma_ve_2li_sistemden_10luk_sayıya_cevirme
         }
         veribaglantisi data;
         List<veribaglantisi> ver;
-        private void Form2_Load(object sender, EventArgs e)
+        private async void Form2_Load(object sender, EventArgs e)
         {
-            ver = new List<veribaglantisi>();
-            ver.Add(new veribaglantisi() { id = 1, form_ad = "deneme", o_yetki = 2, y_yetki = 3 });
-
-            foreach (var item in ver)
+            var client = new HttpClient();
+            client.BaseAddress = new Uri("https://9fa4da70-7dca-4859-be70-bddd4820b8c3.mock.pstmn.io/");
+            HttpResponseMessage httpResponseMessage = await client.GetAsync("api/webuser");
+            string result = await httpResponseMessage.Content.ReadAsStringAsync();
+            label1.Text = result;
+            dataGridView1.Rows.Add(result);
+            foreach (var i in result)
             {
-                dataGridView1.Rows.Add(item.id, item.form_ad, item.o_yetki, item.y_yetki);
-            }
-
-
-            dataGridView1.DataSource = ver;
-            if(ver == null)
-            {
-                MessageBox.Show("data boş");
-            }
-            else
-            {
-
-                MessageBox.Show("data dolu");
-                dataGridView1.DataSource = ver;
+                dataGridView1.Rows.Add(i.ToString());
             }
         }
     }
